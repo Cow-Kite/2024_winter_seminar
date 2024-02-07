@@ -5,5 +5,5 @@ metadata:
 spec:
   containers:
     - name: container
-      image: cowkite/gcn:latest
+      image: cowkite/gcn-test:latest
   restartPolicy: Never
